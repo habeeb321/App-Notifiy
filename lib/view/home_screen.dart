@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 50),
                   const Text(
-                    'LOCAL NOTIFICATIONS',
+                    'PUSH NOTIFICATIONS',
                     textAlign: TextAlign.center,
                     style: TextStyle(fontWeight: FontWeight.bold, fontSize: 50),
                   ),
